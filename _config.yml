@@ -6,14 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+#theme                    : minimal-mistakes-jekyll
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Ithaca Rueda di Casino Group"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Craig Riecke"
+description              : "Rueda di Casino is a dance derived from Salsa, and that's the focus of our group.  People from all over Tompkins and Cortland counties in New York come together on Tuesday nights at the Lansing Community Center in Lansing, NY to dance rueda together.  This site contains all the moves we do and suppementary information."
+url                      : "https://craig-riecke.github.io/ithaca-rueda"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "craig-riecke/ithaca-rueda"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ithaca Rueda di Casino Group"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "We dance Rueda every Tuesday at 7:00 at Lansing Community Center, Lansing NY"
+  location         : "Lansing Community Center, Lansing NY"
+  email            : "craig@tofuna.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -240,7 +241,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
