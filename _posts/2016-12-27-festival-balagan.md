@@ -1,20 +1,20 @@
 ---
 layout: single
-title: Festival Falagan
+title: Festival Balagan
+excerpt: Enchufle, one clap, Enchufle Doble, two claps, Enchufle "triple", three claps.
 categories: Enchufle
 tags: 
   - Enchufle
   - Festival
 ---
 
-Description
-: Enchufle, one clap, Enchufle Doble, two claps, Enchufle "triple", three claps.  
+Festival Balagan is [Enchufle]({{ "/enchufle/enchufle" | absolute_url }}), 
+one clap, Enchufle Doble, two claps, and Enchufle "triple", then
+three claps.  Some groups call the triple an Enchufle Complicado, but it's not like the one
+we do.  
 
 Translation
-: Unknown
-
-Category
-: Miscellaneous
+: Festival "Disorder" - Festival moves are "three of something", and Balagan is actually a Hebrew word. 
 
 Level
 : Intermediate
@@ -24,6 +24,12 @@ Sign
 
 Resembles
 : Enchufle, Festival - which always contains three of something
+
+<iframe width="560" height="315"  src="https://www.youtube-nocookie.com/embed/AViak0tRjZY?rel=0&start=60&end=97" frameborder="0" allowfullscreen></iframe>
+
+Move ends at 1:44.  
+
+## Breakdown
 
 |Count     | Leader | Follower |
 |----------+--------+----------|
