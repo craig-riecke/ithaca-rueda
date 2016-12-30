@@ -8,8 +8,8 @@ tags:
   - Festival
 ---
 
-Festival Balagan is [Enchufle]({{ "/enchufle/enchufle" | absolute_url }}), 
-one clap, Enchufle Doble, two claps, and Enchufle "triple", then
+Festival Balagan is [Enchufle](/enchufle/enchufle), 
+one clap, [Enchufle Doble](/enchufle/enchufle_doble), two claps, and Enchufle "triple", then
 three claps.  Some groups call the triple an Enchufle Complicado, but it's not like the one
 we do.  
 
@@ -23,7 +23,7 @@ Sign
 : Unknown
 
 Resembles
-: Enchufle, Festival - which always contains three of something
+: [Enchufle](/enchufle/enchufle), Festival - which always contains three of something
 
 <iframe width="560" height="315"  src="https://www.youtube-nocookie.com/embed/AViak0tRjZY?rel=0&start=60&end=97" frameborder="0" allowfullscreen></iframe>
 
@@ -37,9 +37,9 @@ Move ends at 1:44.
 |1 - 5,6,7 | Walk past follower on left, clap on 7 | Regular Enchufle |
 |2 - 1,2,3 | Picalante with partner #2 | Picalante |
 |2 - 5,6,7 | Dile Que No | Dile Que No |
-|3 - 1,2,3 | Enchufle Doble with Partner #2, Hand Out to stop follower | Enchufle Doble  |
-|3 - 5,6,7 | Enchufle Doble, Unwind | Enchufle Doble |
-|4 - 1,2,3 | Finish Enchufle Doble, regular enchufle | Regular Enchufle |
+|3 - 1,2,3 | [Enchufle Doble](/enchufle/enchufle_doble) with Partner #2, Hand Out to stop follower | [Enchufle Doble](/enchufle/enchufle_doble)  |
+|3 - 5,6,7 | [Enchufle Doble](/enchufle/enchufle_doble), Unwind | [Enchufle Doble](/enchufle/enchufle_doble) |
+|4 - 1,2,3 | Finish [Enchufle Doble](/enchufle/enchufle_doble), regular enchufle | Regular Enchufle |
 |4 - 5,6,7 | Walk past follower on left, clap on 7,8 | Regular enchufle |
 |5 - 1,2,3 | Picalante with partner #3 | Picalante |
 |5 - 5,6,7 | Dile Que No | Dile Que No |
