@@ -2,7 +2,7 @@
 layout: single
 title: 
 excerpt: 
-level: 1 - Beginner
+level: 2 - Intermediate
 categories: 
 tags: 
   - 
@@ -12,6 +12,9 @@ Description.
 
 Translation
 :  
+
+Level
+: Beginner
 
 Sign
 : 

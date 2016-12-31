@@ -2,7 +2,8 @@
 layout: single
 title: Festival Balagan
 excerpt: Enchufle, one clap, Enchufle Doble, two claps, Enchufle "triple", three claps.
-categories: Enchufle
+categories: Enchufe
+level: 2 - Intermediate
 tags: 
   - Enchufle
   - Festival
@@ -15,9 +16,6 @@ we do.
 
 Translation
 : Festival "Disorder" - Festival moves are "three of something", and Balagan is actually a Hebrew word. 
-
-Level
-: Intermediate
 
 Sign
 : Unknown

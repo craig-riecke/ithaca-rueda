@@ -1,10 +1,7 @@
 ---
 layout: single
 permalink: /music/
-author_profile: false
 ---
-
-# Music For Rueda Practice
 
 Not all music, and not even all Latin music, is appropriate for dancing Rueda.  In general we look for:
 

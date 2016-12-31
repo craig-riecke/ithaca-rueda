@@ -2,12 +2,14 @@
 main:
   - title: "About"
     url: /about
-  - title: "Music"
-    url: /music
+  - title: "Levels"
+    url: /levels/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "Music"
+    url: /music
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
