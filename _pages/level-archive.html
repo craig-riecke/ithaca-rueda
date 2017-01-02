@@ -10,6 +10,6 @@ title: "Moves by Level"
   {% assign posts = group_items[forloop.index0] %}
   <h2 id="{{ level | slugify }}" class="archive__subtitle">{{ level }}</h2>
   {% for post in posts %}
-    {% include archive-single.html %}
+    {% include archive-single-no-excerpt.html %}
   {% endfor %}
 {% endfor %}

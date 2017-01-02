@@ -1,0 +1,13 @@
+
+
+{% include group-by-array collection=site.posts field="categories" %}
+
+{% assign this_category = include.category %}
+{% for category in group_names %}
+  {% if category == this_category %}
+    {% assign posts = group_items[forloop.index0] %}
+    {% for post in posts %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}

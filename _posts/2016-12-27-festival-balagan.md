@@ -5,17 +5,17 @@ excerpt: Enchufle, one clap, Enchufle Doble, two claps, Enchufle "triple", three
 categories: Enchufe
 level: 2 - Intermediate
 tags: 
-  - Enchufle
+  - Enchufe
   - Festival
 ---
 
 Festival Balagan is [Enchufle](/enchufle/enchufle), 
-one clap, [Enchufle Doble](/enchufle/enchufle_doble), two claps, and Enchufle "triple", then
+one clap, [Enchufle Doble](/enchufle/enchufle-doble), two claps, and Enchufle "triple", then
 three claps.  Some groups call the triple an Enchufle Complicado, but it's not like the one
 we do.  
 
 Translation
-: Festival "Disorder" - Festival moves are "three of something", and Balagan is actually a Hebrew word. 
+: Festival of Disorder - Festival moves are "three of something", and Balagan is actually a Hebrew word. 
 
 Sign
 : Unknown
@@ -32,17 +32,17 @@ Move ends at 1:44.
 |Count     | Leader | Follower |
 |----------+--------+----------|
 |1 - 1,2,3 | Regular Enchufle with partner #1, switch places | Regular Enchufle |
-|1 - 5,6,7 | Walk past follower on left, clap on 7 | Regular Enchufle |
+| - 5,6,7 | Walk past follower on left, clap on 7 | Regular Enchufle |
 |2 - 1,2,3 | Picalante with partner #2 | Picalante |
-|2 - 5,6,7 | Dile Que No | Dile Que No |
-|3 - 1,2,3 | [Enchufle Doble](/enchufle/enchufle_doble) with Partner #2, Hand Out to stop follower | [Enchufle Doble](/enchufle/enchufle_doble)  |
-|3 - 5,6,7 | [Enchufle Doble](/enchufle/enchufle_doble), Unwind | [Enchufle Doble](/enchufle/enchufle_doble) |
-|4 - 1,2,3 | Finish [Enchufle Doble](/enchufle/enchufle_doble), regular enchufle | Regular Enchufle |
-|4 - 5,6,7 | Walk past follower on left, clap on 7,8 | Regular enchufle |
+| - 5,6,7 | Dile Que No | Dile Que No |
+|3 - 1,2,3 | [Enchufle Doble](/enchufle/enchufle-doble) with Partner #2, Hand Out to stop follower | [Enchufle Doble](/enchufle/enchufle_doble)  |
+| - 5,6,7 | Unwind | Unwind |
+|4 - 1,2,3 | Finish Enchufle Doble, regular enchufle | Regular Enchufle |
+| - 5,6,7 | Walk past follower on left, clap on 7,8 | Regular enchufle |
 |5 - 1,2,3 | Picalante with partner #3 | Picalante |
-|5 - 5,6,7 | Dile Que No | Dile Que No |
+| - 5,6,7 | Dile Que No | Dile Que No |
 |6 - 1,2,3 | Regular Enchufle, switch places | Regular enchfule |
-|6 - 5,6,7 | Walk past follower on left, but hold right hand up and duck under, then turn around | Turn around as if a regular enchufle |
+| - 5,6,7 | Walk past follower on left, but hold right hand up and duck under, then turn around | Turn around as if a regular enchufle |
 |7 - 1,2,3 | Finish Enchufle "triple", regular enchufle | Regular Enchufle |
 |7 - 5,6,7 | Walk past follower on left, clap on 7,8,1 | Regular enchufle |
 |8 - 1,2,3 | Picalante with partner #4 | Picalante |
